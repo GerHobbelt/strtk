@@ -215,7 +215,7 @@ bool trie_example02()
    return true;
 }
 
-int main()
+int main(void)
 {
    trie_example00();
    trie_example01();

@@ -345,7 +345,7 @@ void example02()
    }
 }
 
-int main()
+int main(void)
 {
    example01();
    example02();

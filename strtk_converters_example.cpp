@@ -187,7 +187,7 @@ void bin2b64_speed_test()
    delete[] b64;
 }
 
-int main()
+int main(void)
 {
    example01();
    example02();

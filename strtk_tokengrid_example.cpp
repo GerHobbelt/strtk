@@ -971,7 +971,7 @@ void token_grid_test16()
    }
 }
 
-int main()
+int main(void)
 {
    token_grid_test01();
    token_grid_test02();

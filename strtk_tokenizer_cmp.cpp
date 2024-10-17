@@ -888,7 +888,7 @@ void strtk_cast_test_s2d()
           (s2d_rounds * v_size) / t.time());
 }
 
-int main()
+int main(void)
 {
    std::cout << "Tokenizer Test" << std::endl;
    boost_tokenizer_timed_test();

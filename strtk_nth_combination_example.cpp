@@ -146,7 +146,7 @@ void nth_combination_example03()
                                   nth_combination.end()));
 }
 
-int main()
+int main(void)
 {
    nth_combination_example01();
    nth_combination_example02();

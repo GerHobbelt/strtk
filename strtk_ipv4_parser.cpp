@@ -89,7 +89,7 @@ void print_octet(const unsigned char octet[4])
    std::cout << "IP (octet) = " << strtk::text::right_align(15, ' ', s.as_string());
 }
 
-int main()
+int main(void)
 {
    unsigned char octet[4] = {0};
 

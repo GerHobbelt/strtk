@@ -47,7 +47,7 @@
 #include "strtk.hpp"
 
 
-int main()
+int main(void)
 {
    static std::string letters = "abcdefghijklmnopqrstuvwxyz";
 

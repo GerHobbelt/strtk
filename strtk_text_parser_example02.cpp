@@ -108,7 +108,7 @@ void parse_text(const std::string& file_name, Container& c)
    strtk::for_each_line<const pl_type&>(file_name,pl_ref);
 }
 
-int main()
+int main(void)
 {
    std::string text_file_name = "text.txt";
    std::deque< std::string > word_list;

@@ -57,7 +57,7 @@
 #include "strtk.hpp"
 
 
-int main()
+int main(void)
 {
    /*
       Note: process takes input from stdin.

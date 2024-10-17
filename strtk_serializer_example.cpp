@@ -1136,7 +1136,7 @@ bool example10(char* buffer)
    return true;
 }
 
-int main()
+int main(void)
 {
    static const std::size_t max_buffer_size = 10 * strtk::one_megabyte; // 10MB
    char* buffer = new char[max_buffer_size];

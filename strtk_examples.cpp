@@ -2073,7 +2073,7 @@ void truncatedint_example()
    }
 }
 
-int main()
+int main(void)
 {
    information();
    tokenizer_example01();

@@ -694,7 +694,7 @@ void strtk_vs_stdstl_double_parse_test()
    }
 }
 
-int main()
+int main(void)
 {
    parse_test01();
    parse_test02();

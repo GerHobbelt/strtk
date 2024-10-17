@@ -2881,7 +2881,7 @@ bool test_keyvalue_parser()
    return true;
 }
 
-int main()
+int main(void)
 {
    bool result = true;
    result &= test_split_and_tokenizer();

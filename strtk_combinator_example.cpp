@@ -33,7 +33,7 @@
 #include "strtk.hpp"
 
 
-int main()
+int main(void)
 {
    typedef std::vector<unsigned int> list_type;
    typedef strtk::combination_iterator<list_type::iterator> iterator_type;
